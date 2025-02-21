@@ -1,4 +1,4 @@
-# set up project kirat
+# Docker-Compose project 
 
 ### Init setup
 
